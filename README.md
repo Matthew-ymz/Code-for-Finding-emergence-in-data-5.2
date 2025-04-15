@@ -1,3 +1,13 @@
+### Important Update: New Repository Available! 🚀
+
+We are excited to announce that a new version of our codebase is now available! The new repository features improved readability, better code structure, and enhanced adherence to best practices. We highly recommend using the new version for a better development experience and maintainability.
+
+You can find the updated repository here: [New Repository](https://github.com/Matthew-ymz/Time-series-forecasting-for-causal-emergence)
+
+Thank you for your continued support!
+
+
+
 The Neural Information Squeezer (NIS) is a machine learning framework designed for identifying causal emergence within datasets. Causal emergence represents a theoretical construct that aims to quantify the emergence phenomena within complex systems[1]. Given that the underlying mechanisms of the data are often obscure, and that abundant data can be procured through observation, a machine learning framework is of considerable significance in the study of complex systems, particularly with respect to their emergent characteristics. <br>
 
 # NIS：
